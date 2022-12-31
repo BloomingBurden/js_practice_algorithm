@@ -10,4 +10,4 @@ const perimeter = (n) => {
   }
 
   return result * 4;
-};
+}

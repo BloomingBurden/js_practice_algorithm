@@ -1,6 +1,6 @@
 //TASK::::::::::::
 //https://www.codewars.com/kata/51c8e37cee245da6b40000bd/javascript
-// My universal solution. It can be solved more laconically. 
+// My universal solution. It can be solved more laconically
 
 'use strict';
 
